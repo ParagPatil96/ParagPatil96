@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello Folks! 👋
 
-<!--
-**ParagPatil96/ParagPatil96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Parag Patil, a backend sorcerer 🧙‍♂️ crafting digital wonders in the world of microservices, Kubernetes, and cloud computing. Currently conjuring code at Atlan and formerly enchanted at Fivetran, I specialize in weaving high-loaded webhook services and spellbinding data pipelines. ✨
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Languages: Java, Python, Kotlin
+- Microservices: Docker, Kubernetes
+- Cloud: AWS, GCP
+- Databases: Postgres
+- Tools: Git, Jenkins, Terraform
+
+## 📫 Get in Touch
+
+Let's connect and conjure some code together! 🌌
+
+- Profile: https://bento.me/paragpatil
+- LinkedIn: https://www.linkedin.com/in/parag-patil-814b80139/
+- Twitter: https://twitter.com/ParagPatil96
+
+Looking forward to brewing some digital magic with you! 🧙‍♂️🔮
+
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=ParagPatil96&theme=transparent&show_icons=true) -->
