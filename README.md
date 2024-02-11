@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm Parag Patil, a backend sorcerer 🧙‍♂️ 
 - Microservices: Docker, Kubernetes
 - Cloud: AWS, GCP
 - Databases: Postgres
-- Tools: Git, Jenkins, Terraform
+- Buidling Tool: Bazel, Maven
+- Tools: Git, CircleCi, Buildkite, Terraform
 
 ## 📫 Get in Touch
 
